@@ -1,0 +1,15 @@
+
+Common/bin/
+Common/obj/
+ConsoleApp/bin/
+ConsoleApp/obj/
+ProductApp/bin/
+ProductApp/obj/
+RouteLib/bin/
+RouteLib/obj/
+SelfHost/bin/
+SeltHost/obj/
+WebApi/bin/
+WebApi/obj/
+WebHost/bin/
+WebHost/obj/
